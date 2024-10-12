@@ -134,8 +134,8 @@ guessess.length = 0
 
 
 
-// den her den har jeg brugt inspiration fra min gamle opgaver
-// og på linje 100 blev jeg inspireret af chatgpt
+
+
 
 
 
